@@ -4,9 +4,7 @@
 
 ### [Install Node.js](https://nodejs.org/en/)
 
-### Start Backend server
-
-To start the backend server you need to run the following sequence of commands.
+### To start the backend server you need to run the following sequence of commands.
 
 ### Install Node Modules from backend folder
 
@@ -24,7 +22,7 @@ Start the backend server.
 npm run start
 ```
 
-To start the frontend server you need to run the following sequence of commands.
+### To start the frontend server you need to run the following sequence of commands.
 
 ### Install Node Modules from frontend folder
 
